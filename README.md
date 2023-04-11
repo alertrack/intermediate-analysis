@@ -7,8 +7,7 @@ Analisar os dados de vendas de um e-commerce fictício e identificar insights e 
 
 1. Realize a limpeza dos dados, verificando a existência de valores nulos, inconsistências e outliers.
 2. Faça uma análise exploratória dos dados, identificando as principais características dos clientes e padrões de compra.
-3. Calcule as métricas de recência, frequência e monetaridade para os clientes.
-4. Utilize as métricas acima para segmentar os clientes em grupos de acordo com o seu comportamento de compra.
+3. Utilize as métricas acima para segmentar os clientes em grupos de acordo com o seu comportamento de compra.
 4. Crie um relatório com os principais insights e oportunidades de melhoria para a empresa.
 5. Identifique corelações.
 
