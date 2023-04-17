@@ -5,14 +5,13 @@ Desafio de Lógica de Programação e Analise de dados Intermediário - utilizan
 
 Analisar os dados de vendas de um e-commerce fictício e identificar insights e oportunidades de melhoria para a empresa, seguindo as etapas:
 
-1. Realize a limpeza dos dados, verificando a existência de valores nulos, inconsistências e outliers.
+1. Realize a limpeza dos dados, verificando a existência de valores nulos, inconsistências e destacando os outliers.
 2. Faça uma análise exploratória dos dados, identificando as principais características dos clientes e padrões de compra.
 3. Utilize as métricas acima para segmentar os clientes em grupos de acordo com o seu comportamento de compra.
 4. Crie um relatório com os principais insights e oportunidades de melhoria para a empresa.
 5. Identifique corelações.
 
 **Importante**: 
-* Para a manipulação da recência, considere a data mais recente do dataframe como a data base para o cálculo.
 * O relatório deve ser confeccionado diretamente pelo código python e extraído como PDF.
 * O relatório deve ser implementado utilizando a técnica de storytelling.
 * O relatório deve ser intuitivo e objetivo, dispensando-se textos longos, figuras não analíticas e que não são baseadas nos dados coletados.
@@ -29,7 +28,7 @@ Analisar os dados de vendas de um e-commerce fictício e identificar insights e 
 
 * Consumir o arquivo intermediate-analitycs.csv.
 * Carregar o arquivo csv como um DataFrame.
-* Fazer uma breve análise exploratória dos dados para entender o que está contido no arquivo.
+* Fazer uma breve análise exploratória dos dados para entender o que está contido no arquivo e corrigi-lo se necessário.
 * Criar insights pessoais a partir das análises realizadas e compartilhá-los em um documento separado no formato Markdown
 
 **Artigos para Referência**:
