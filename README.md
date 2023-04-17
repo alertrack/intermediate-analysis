@@ -19,7 +19,7 @@ Analisar os dados de vendas de um e-commerce fictício e identificar insights e 
 
 
 **EXTRA - NÃO OBRIGATÓRIO**
-* Implemente um modelo de regressão para prever o valor total das compras de um cliente nos próximos 12 meses, utilizando as variáveis disponíveis no conjunto de dados. Avalie o desempenho do modelo e identifique as variáveis mais importantes para a previsão. 
+* Implemente um modelo de **regressão linear** para prever o valor total das compras de um cliente nos próximos 12 meses, utilizando as variáveis disponíveis no conjunto de dados. Avalie o desempenho do modelo e identifique as variáveis mais importantes para a previsão. 
 
 **Sugestão**:
 * Utilizar a biblioteca Plotly para confecção dos gráficos e sklearn para geração do modelo
